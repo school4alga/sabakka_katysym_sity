@@ -410,3 +410,6 @@ body[data-lang="ru"] #schoolTitles [data-lang="kk"] {
 /* қазақ тілі бастайды */
 body[data-lang="kk"] #schoolTitles span[data-lang="kk"] { display: inline; }
 body[data-lang="ru"] #schoolTitles span[data-lang="ru"] { display: inline; }
+body { background: url("img/school.jpg") ... }
+
+.banner { background-image: url("img/girls.jpg"); ... }
